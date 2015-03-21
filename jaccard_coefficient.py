@@ -14,9 +14,7 @@ class JaccardCoefficient:
 			set_y = set(y)
 			union_xy = set_x | set_y
 			intersection_xy = set_x & set_y
-			print '交集%s,并集%s'%(len(intersection_xy),min(len(set_x),len(set_y)))
-			# return float(len(intersection_xy))/float(len(union_xy))
-			return float(len(intersection_xy))/float(min(len(set_x),len(set_y)))
+			return float(len(intersection_xy))/float(len(union_xy))
 
 # class JaccardCoefficient
   
