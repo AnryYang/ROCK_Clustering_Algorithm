@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#_*_ coding:utf-8 _*_
+#-*- coding:utf-8 -*-
 
 from rock_algorithm import RockAlgorithm
 from data_point import DataPoint

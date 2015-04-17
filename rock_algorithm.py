@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#_*_ coding:utf-8 _*_
+#-*- coding:utf-8 -*-
 
 from jaccard_coefficient import JaccardCoefficient
 from link_matrix import LinkMatrix

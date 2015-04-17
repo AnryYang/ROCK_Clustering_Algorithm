@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#_*_ coding:utf-8 _*_
+#-*- coding:utf-8 -*-
 
 from cluster import Cluster
 from data_point import DataPoint
